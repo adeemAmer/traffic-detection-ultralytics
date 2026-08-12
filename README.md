@@ -69,5 +69,5 @@ Delivered by **SDAIA Academy** through Learning Space.
 SDAIA Academy:
 https://github.com/SDAIAAcademy
 ## Demo Video
-
+The final tracking video can be viewed by clicking *View raw* on the video file.
 [▶️ View Final Tracking Video](./TRACKING_FINAL_H264.mp4)
