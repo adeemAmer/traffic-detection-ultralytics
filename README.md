@@ -76,3 +76,6 @@ Delivered by **SDAIA Academy** through Learning Space.
 
 SDAIA Academy:
 https://github.com/SDAIAAcademy
+## Demo Video
+
+[▶️ View Traffic Video](./traffic_video.mp4)
