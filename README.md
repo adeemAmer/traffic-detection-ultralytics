@@ -51,20 +51,12 @@ The trained custom model was saved as:
 
 The project applies YOLO tracking to traffic video and assigns IDs to detected objects.
 
-## Model Export
-
-The trained model was successfully exported to ONNX format.
-
-Output:
-
-`best_model.onnx`
 
 ## Project Files
 
-- `Traffic_project_FINAL.ipynb` - Main project notebook.
-- `best_model.pt` - Original trained YOLO model.
-- `custom_car_best.pt` - Custom car model.
-- `best_model.onnx` - ONNX exported model.
+- `Untitled FINAL.ipynb` - Main project notebook.
+- `custom_car_best.pt` - Custom trained car detection model.
+- `TRACKING_FINAL_H264.mp4` - Final traffic detection and tracking video.
 
 ## Training Program
 
@@ -78,4 +70,4 @@ SDAIA Academy:
 https://github.com/SDAIAAcademy
 ## Demo Video
 
-[▶️ View Traffic Video](./traffic_video.mp4)
+[▶️ View Final Tracking Video](./TRACKING_FINAL_H264.mp4)
